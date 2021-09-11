@@ -31,4 +31,4 @@ The several activities carried out during the task are as follows -
 - Boosting techniques perform poorly, no improvement in naive bayes but tree based models show good scores.
 - Decision Tree selected based on train, test and cross validation scores.
 - Feature Selection and Parameter tuning adopted to improve baseline models.
-- Final Mode achieves 0.65 macro F1, 0.45 f1 and 0.846 auc score on test sample.
+- Final Model achieves accuracy of 0.76, 0.65 macro F1, 0.45 f1 and 0.846 auc score on test sample.
